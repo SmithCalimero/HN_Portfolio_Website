@@ -113,7 +113,7 @@ const Contact = () => {
           </label>
 
           <label className="flex flex-col">
-            <span className="text-white font-medium mb-4">Your Name</span>
+            <span className="text-white font-medium mb-4">Your Message</span>
             <textarea  
               rows={7}
               name="message"
